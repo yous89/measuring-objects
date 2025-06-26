@@ -1,1 +1,1 @@
-# measuring-objects
+Automatische Objektvermessung mit OpenCV
